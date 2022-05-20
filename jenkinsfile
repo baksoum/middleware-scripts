@@ -19,7 +19,7 @@ pipeline {
             }
             stage('dev') {
                 steps {
-                    echo 'Finaly Prod Environnement'
+                    echo 'Finaly Prod Environnement woooooooww'
                 }
             }
         
