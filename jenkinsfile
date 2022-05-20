@@ -23,7 +23,7 @@ pipeline {
             stage('dev') {
                 steps {
                     echo 'Finaly Prod Environnement woooooooww'
-                    sleep 4
+                    sleep 3
                 }
             }
         
